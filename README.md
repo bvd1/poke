@@ -1,5 +1,4 @@
-# poke
-Python Console Pokemon Game
+# Python Console Pokemon Game
 
 Important Note: Not all Software Requirements are implemented. Other important functionalities are also not yet implemented. For the most important
 requirements to be inplemented, search for 'todo' in the code. These include:
